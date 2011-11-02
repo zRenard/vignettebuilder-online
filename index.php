@@ -29,8 +29,9 @@
 // 22-mars-2006 07:47 PM : V.1.8.13 : Number directory by line
 // 26-mars-2006 11:57 AM : V.1.8.14 : Adding video type
 // 19-mai-2006 12:05 AM : V.1.8.15 : Bugfix Directory not sorted like other files
+// 02-nov-2011 12:01 PM : V.1.8.16 : Move to Git using code.google.com
 //////////////////////////////////////////
-$version="1.8.15";
+$version="1.8.16";
 //////////////////////////////////////////
 
 //$admin=1;
